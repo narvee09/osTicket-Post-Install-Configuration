@@ -14,11 +14,6 @@
 -  <b><a href="https://github.com/narvee09/osTicket-installation">osTicket</a></b>
 -  <b><a href="https://github.com/narvee09/Client-Creation-VM-">Virtual Machine Lab Environment</a></b>
 
-<h2>Ticket Stages</h2><!---show 2 examples of full stages start to finish--->
-
--  <b>Assignment</b>
--  <b>Work</b>
--  <b>Resolution</b>
 
 <h2>Role Configuration:</h2>
 Navigate to the admin panel > agents > roles > add new role > input “Supreme Admin” > check all permissions
